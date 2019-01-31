@@ -1,3 +1,7 @@
+Smart Brain - Face Recognition App
+
+Visit https://smart-brain-sg.herokuapp.com/ (please allow time for the server to spin up :-)
+
 To use the app:
 
 1) Register as a user
